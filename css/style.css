@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(48, 48, 48);
+}
+
+
+.container{
+    
+}
+
+
+
+.slide__bar{
+    width: 700px;
+    height: 400px;
+    overflow: hidden;
+    border: 6px solid rgb(165, 165, 165) ;
+    border-radius: 20px;
+}
+
