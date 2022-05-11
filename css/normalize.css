@@ -348,3 +348,8 @@
     display: none;
   }
   
+
+  p{
+    margin: 0;
+    padding: 10px;
+  }
